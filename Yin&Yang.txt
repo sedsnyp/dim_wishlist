@@ -80,9 +80,25 @@ dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,1015611457
 //notes: PVP God Roll
 
 Obra-prima: Alcance
-Mod: Aquisição de Alvo tags:god-pvp
+Mod: Ajustador de Mira tags:god-pvp
 dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,460017080
 dimwishlist:item=2856514843&perks=1840239774,1885400500,588594999,460017080
+
+
+// Vision of Confluence - PVE God Roll (god-pvp)
+//notes: PVE God Roll
+
+Obra-prima: Estabilidade
+Mod: Especialista em Poderosos tags:god-pvp
+dimwishlist:item=3186018373&perks=1840239774,1968497646,3592538738,3824105627
+
+
+// Vision of Confluence - PVP God Roll (god-pvp)
+//notes: PVP God Roll
+
+Obra-prima: Alcance
+Mod: Ajustador de Mira tags:god-pvp
+dimwishlist:item=3186018373&perks=1840239774,1885400500,2450788523,1015611457
 
 
 // Funnelweb - PVE God Roll (god-pve)
