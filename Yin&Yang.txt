@@ -82,6 +82,7 @@ dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,1015611457
 Obra-prima: Alcance
 Mod: Aquisição de Alvo tags:god-pvp
 dimwishlist:item=2856514843&perks=1840239774,1885400500,1168162263,460017080
+dimwishlist:item=2856514843&perks=1840239774,1885400500,588594999,460017080
 
 
 // Funnelweb - PVE God Roll (god-pve)
